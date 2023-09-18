@@ -1,6 +1,6 @@
 # AIFFEL Socar Campus Code Peer Review Templete
 
-코더 : [코드 작성자]
+코더 : [노현정,정용은]
 
 리뷰어 : [리뷰어]
 
