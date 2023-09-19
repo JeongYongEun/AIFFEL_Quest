@@ -2,7 +2,7 @@
 
 코더 : [정용은]
 
-리뷰어 : [리뷰어]
+리뷰어 : [김새봄]
 
 ## PRT(PeerReviewTemplate)
 
